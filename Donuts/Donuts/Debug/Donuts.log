@@ -1,0 +1,11 @@
+﻿  Donuts.c
+c:\users\brandon\desktop\donuts\donuts\donuts.c(74): warning C4022: '_beginthreadex': pointer mismatch for actual parameter 4
+c:\users\brandon\desktop\donuts\donuts\donuts.c(80): warning C4022: '_beginthreadex': pointer mismatch for actual parameter 4
+c:\users\brandon\desktop\donuts\donuts\donuts.c(85): warning C4022: '_beginthreadex': pointer mismatch for actual parameter 4
+c:\users\brandon\desktop\donuts\donuts\donuts.c(114): warning C4013: 'time' undefined; assuming extern returning int
+c:\users\brandon\desktop\donuts\donuts\donuts.c(112): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'DWORD *'
+c:\users\brandon\desktop\donuts\donuts\donuts.c(163): warning C4047: '=': 'DWORD' differs in levels of indirection from 'DWORD *'
+c:\users\brandon\desktop\donuts\donuts\donuts.c(167): warning C4013: 'bakers_done' undefined; assuming extern returning int
+c:\users\brandon\desktop\donuts\donuts\donuts.c(167): warning C4013: 'empty_bins' undefined; assuming extern returning int
+c:\users\brandon\desktop\donuts\donuts\donuts.c(218): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'DWORD *'
+  Donuts.vcxproj -> C:\Users\Brandon\Desktop\Donuts\Debug\Donuts.exe
